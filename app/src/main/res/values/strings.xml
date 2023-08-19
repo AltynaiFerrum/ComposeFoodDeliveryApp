@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ComposeFoodDeliveryApp</string>
+    <string name="enjoy_your_favorite">Enjoy your favourite\n food delicous</string>
+    <string name="search">Search\n</string>
+    <string name="all">All\n</string>
+    <string name="healthy_food">Healthy food</string>
+    <string name="junk_food">Junk food</string>
+    <string name="dessert">Dessert</string>
+    <string name="easy_greak_salad">Easy Greak Salad</string>
+    <string name="price">Price</string>
+    <string name="price_d">$21.99</string>
+    <string name="choice_quantity">Choice quantity</string>
+    <string name="minus">-</string>
+    <string name="one">1</string>
+    <string name="plus">+</string>
+    <string name="description">This Italian salad is full of all the right flavors and textures: crisp lettuce, crunchy garlic croutons, and zingy pepperoncini. It’s covered in punchy, herby Italian vinaigrette that makes the flavors sing! It can play sidekick to just about anything.</string>
+    <string name="order_now">Order Now</string>
+    <string name="add_chart">Add Chart</string>
+</resources>
